@@ -93,6 +93,9 @@ line-height: 1.5;;
     .my-info {
         text-align: center;
     }
+    .my-info h3 {
+        float: left !important;
+    }
     .my-info img {
         float: none;
         text-align: center;
