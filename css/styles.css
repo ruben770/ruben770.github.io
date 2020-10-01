@@ -8,7 +8,7 @@ body {
     text-justify: inter-word;
   }
   .content p {
-    font-size: 1vw;
+    font-size: 18px;
   }
 
 .navbar {
@@ -94,10 +94,8 @@ line-height: 1.5;;
         text-align: center;
     }
     .my-info img {
+        float: none;
         text-align: center;
         margin: 33px auto -30px auto;
     }
-    /* .contact-info li {
-        font-size: 4vw;
-    } */
-  }
+}
